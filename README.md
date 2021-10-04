@@ -27,8 +27,6 @@ Count all tracks from each Genre, and output only Genres more that has at least 
 ---
 
 ## Question 02
-SELF JOIN
-WORK WITH NULL
 
 Output customers (table *Customer*) and its state (table *State*) name (full name if accessible), if it is not accessible write null, and order it by Last Name.
 
